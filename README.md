@@ -15,6 +15,8 @@ aop实现
 mvc实现
      目前返回的类型为String和自定义的一个Model类。
 
+注解含义与spring的基本一致。类上有MyBean注解则表示该类必须实例化并注入到ioc容器中。
+
 在pom.xml里面必须加上此配置
 
 
