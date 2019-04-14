@@ -16,6 +16,8 @@ mvc实现
      目前返回的类型为String和自定义的一个Model类。
 
 在pom.xml里面必须加上此配置
+
+
     <build>
             <plugins>
                 <plugin>
@@ -32,6 +34,8 @@ mvc实现
       </build>
 
 所需jar包
+
+
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
