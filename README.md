@@ -1,5 +1,5 @@
 # mvc
-此项目是模仿spring、springMVC做的一个demo项目
+此项目是模仿spring、springMVC做的一个demo项目，水平有限，各位大佬口下留情。
 
 核心类MyDispatcherServlet:
       工作流程:
